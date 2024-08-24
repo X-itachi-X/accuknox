@@ -1,4 +1,4 @@
-# React + Vite Application
+# Accuknox Frontend Assignment
 
 This project is a React application bootstrapped with Vite, providing a fast and efficient development environment.
 
