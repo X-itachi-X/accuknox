@@ -12,13 +12,15 @@ Before you begin, ensure you have the following installed on your system:
 
 Follow these steps to get your development environment running:
 
-1. Clone the repository:
+1. Clone the repository:  `git clone https://github.com/X-itachi-X/accuknox.git`
 
-2. Install dependencies:
+2. Open Folder in Vscode: `cd <your dir>`
 
-3. Start the development server:
+3. Install dependencies: `npm i`
 
-4. Open your browser and navigate to `http://localhost:5173` (or the port shown in your terminal).
+4. Start the development server: `npm run dev`
+
+5. Open your browser and navigate to `http://localhost:5173` (or the port shown in your terminal).
 
 ## Available Scripts
 
