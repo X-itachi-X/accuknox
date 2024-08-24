@@ -1,0 +1,69 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "CSPM Executive Dasboard",
+        "widgets": [
+          {
+            "id": 1,
+            "name": "Cloud Accounts",
+            "content": "Random text for Widget 1"
+          },
+          {
+            "id": 2,
+            "name": "Cloud Account Risk Assessment",
+            "content": "Random text for Widget 2"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "CWPP Dashboard",
+        "widgets": [
+          {
+            "id": 1,
+            "name": "Top 5 Namespace Specific Alerts",
+            "content": "Random text for Widget 3"
+          },
+          {
+            "id": 2,
+            "name": "Workload Alert",
+            "content": "Random text for Widget 4"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Image",
+        "widgets": [
+          {
+            "id": 1,
+            "name": "Random Widget Image",
+            "content": "Random text for Widget 5"
+          },
+          {
+            "id": 2,
+            "name": "Random Alert",
+            "content": "Random text for Widget 6"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Ticket",
+        "widgets": [
+          {
+            "id": 1,
+            "name": "Random Ticket",
+            "content": "Random text for Widget 7"
+          },
+          {
+            "id": 2,
+            "name": "Random Ticket Alert",
+            "content": "Random text for Widget 8"
+          }
+        ]
+      }
+    ]
+  }
+  
