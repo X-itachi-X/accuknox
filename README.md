@@ -40,10 +40,18 @@ In the project directory, you can run:
 
 ## Project guide
 
-1. Initially there are some widgets added into store
-2. You can add your custom Widget by doing this :
-   
-
+- Initially there are some widgets added into store
+- You can add your custom Widget by doing this :
 [](https://github.com/user-attachments/assets/78d3f0af-944c-49d7-ad3f-f4c8290eb4d7)
+
+- Or You can remove this widget by clicking on X button:
+[](https://github.com/user-attachments/assets/2ecadc0a-4051-4deb-93a3-47d8489b763a)
+
+- Or You can edit the widgets from menu 
+[](https://github.com/user-attachments/assets/460d5c01-e396-4f16-8862-662a74d776a3)
+
+
+
+  
 
 
