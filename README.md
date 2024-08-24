@@ -38,24 +38,12 @@ In the project directory, you can run:
 - `index.html`: The main HTML file.
 - `vite.config.js`: Configuration file for Vite.
 
-## Customization
+## Project guide
 
-This template uses [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) for Fast Refresh. If you prefer using SWC for Fast Refresh, you can switch to [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc).
+1. Initially there are some widgets added into store
+2. You can add your custom Widget by doing this :
+   
 
-## Learn More
+[](https://github.com/user-attachments/assets/78d3f0af-944c-49d7-ad3f-f4c8290eb4d7)
 
-To learn more about React and Vite, check out the following resources:
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [Vite Documentation](https://vitejs.dev/guide/)
 
-## Deployment
-
-For deployment instructions, refer to the [Vite deployment guide](https://vitejs.dev/guide/static-deploy.html).
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
